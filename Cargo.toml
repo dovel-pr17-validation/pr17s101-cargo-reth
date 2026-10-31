@@ -438,7 +438,7 @@ evm2-jit = { git = "https://github.com/alloy-rs/evm2", rev = "592bf18c4e22fff54a
 
 # eth
 alloy-dyn-abi = "1.6.1"
-alloy-primitives = { version = "1.6.1", default-features = false, features = ["map-foldhash"] }
+alloy-primitives = { version = "1.7.3", default-features = false, features = ["map-foldhash"] }
 alloy-sol-types = { version = "1.6.1", default-features = false }
 
 alloy-chains = { version = "0.2.33", default-features = false }
